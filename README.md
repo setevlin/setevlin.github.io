@@ -1,6 +1,9 @@
-idk what is happening. 
-
 ##Welcome to GitHub Pages
+=======
+This is a test
+
+## Welcome to GitHub Pages
+>>>>>>> origin/master
 
 You can use the [editor on GitHub](https://github.com/setevlin/setevlin1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
