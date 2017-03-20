@@ -1,42 +1,8 @@
-##Welcome to GitHub Pages
-=======
-This is a test
+## <u>About Me</u>
 
-## Welcome to GitHub Pages
->>>>>>> origin/master
+Hi, I'm Sierra! I am a soon to be graduate of the University of California, Davis. I will be graduating with a B.S. in Applied Statistics, with an emphasis in Economics, and a Minor in Psychology. Hopefully, next year I will be in a Master of Finance program. My data science interests include sports (specifically baseball because my heart belongs to the Angels), psychology, and the economy. 
 
-You can use the [editor on GitHub](https://github.com/setevlin/setevlin1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## <u>Undergraduate Projects</u>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*To be done later*
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/setevlin/setevlin1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
