@@ -19,4 +19,6 @@ Hi, I'm Sierra! I am a soon to be graduate from the University of California, Da
 <li>
 	<a href="setevlin.github.io\Portfolio\assignment6">SQl and Mapping</a>
 </li>
+<br>
+_More to be uploaded later_
 </ul>
