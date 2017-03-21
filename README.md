@@ -20,5 +20,5 @@ Hi, I'm Sierra! I am a soon to be graduate from the University of California, Da
 	<a href="setevlin.github.io\Portfolio\assignment6">SQl and Mapping</a>
 </li>
 <br>
-_More to be uploaded later_
+*More to be uploaded later*
 </ul>
