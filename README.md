@@ -17,7 +17,7 @@ Hi, I'm Sierra! I am a soon to be graduate from the University of California, Da
 	<a href="setevlin.github.io\Portfolio\assignment4">Data Extraction using API</a>
 </li>
 <li>
-	<a href="setevlin.github.io\Portfolio\assignment6">SQl and Mapping</a>
+	<a href="setevlin.github.io\Portfolio\assignment6">SQL and Mapping</a>
 </li>
 <li>
 	<a href="setevlin.github.io\Portfolio\FinalProject_Luong_Tevlin">Final Project: What Makes A Baseball Team Successful?</a>
